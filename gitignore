@@ -1,0 +1,16 @@
+# User study data — contains identifiable participant information
+user_study_data.csv
+*.csv
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Colab checkpoints
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
